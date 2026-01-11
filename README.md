@@ -151,11 +151,21 @@ Project ini difokuskan pada:
 - Implementasi teknis Jetpack Compose
 
 Bukan sebagai produk komersial, melainkan **prototype akademik dan pembelajaran**.
-
----
+![WhatsApp Image 2026-01-12 at 07 14 11](https://github.com/user-attachments/assets/cb230ecb-43de-4c7d-a47e-520299aa76a2)
+![WhatsApp Image 2026-01-12 at 07 14 11 (1)](https://github.com/user-attachments/assets/25838fa4-74c2-4d0c-85f5-441b8d7ed49c)
+![WhatsApp Image 2026-01-12 at 07 14 12](https://github.com/user-attachments/assets/dde3cb51-cfac-4623-aa21-a8a0cd7fb2b0)
+![WhatsApp Image 2026-01-12 at 07 14 12 (1)](https://github.com/user-attachments/assets/7473cf66-16e7-48c2-9b23-eb12597f98b0)
+![WhatsApp Image 2026-01-12 at 07 14 12 (2)](https://github.com/user-attachments/assets/056a0e7d-a648-4279-a6fe-938b4d3e176c)
+![WhatsApp Image 2026-01-12 at 07 14 13](https://github.com/user-attachments/assets/891724af-6c23-4cc3-a4be-fca89f9b4c88)
+![WhatsApp Image 2026-01-12 at 07 14 13 (1)](https://github.com/user-attachments/assets/8bda333f-0bc7-41a1-a813-c759c3450969)
+![WhatsApp Image 2026-01-12 at 07 14 13 (2)](https://github.com/user-attachments/assets/290f4040-15db-49ab-a1e8-9f02fed055f8)
+![WhatsApp Image 2026-01-12 at 07 14 14](https://github.com/user-attachments/assets/6aaf7b41-5ef5-48dd-93fc-77513fa070a4)
+![WhatsApp Image 2026-01-12 at 07 14 14 (1)](https://github.com/user-attachments/assets/fa41bc11-3305-49d8-b894-c08ffe147ba2)
+![WhatsApp Image 2026-01-12 at 07 14 14 (2)](https://github.com/user-attachments/assets/b21ba848-36c8-4375-9ac9-b8c732390204)
+![WhatsApp Image 2026-01-12 at 07 14 15](https://github.com/user-attachments/assets/566c587a-129e-4a37-b58e-0e961718bdfc)
 
 ✨ Terima kasih telah melihat project ini!
 ```
 
 
-tinggal bilang, aku rapikan lagi 👌
+
